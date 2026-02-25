@@ -117,64 +117,43 @@
 
 ---
 
+
 ## 📈 GitHub Stats
-
 <div align="center">
-  <!-- Followers -->
   <a href="https://github.com/Krishnavamsi0018?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Krishnavamsi0018?style=for-the-badge&logo=github&color=00e5ff&labelColor=0d1117"
-      alt="GitHub Followers"
-    />
+    <img src="https://img.shields.io/github/followers/Krishnavamsi0018?style=for-the-badge&logo=github&color=00e5ff&labelColor=0d1117" />
   </a>
-
   &nbsp;
-
-  <!-- Repositories (STATIC – NO 404 EVER) -->
   <a href="https://github.com/Krishnavamsi0018?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge&logo=github&labelColor=0d1117"
-      alt="Public Repositories"
-    />
+    <img src="https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge&logo=github&labelColor=0d1117" />
   </a>
-
   &nbsp;
-
-  <!-- Stars -->
   <a href="https://github.com/Krishnavamsi0018">
-    <img
-      src="https://img.shields.io/github/stars/Krishnavamsi0018?affiliations=OWNER&style=for-the-badge&logo=github&color=22c55e&labelColor=0d1117"
-      alt="GitHub Stars"
-    />
+    <img src="https://img.shields.io/github/stars/Krishnavamsi0018?affiliations=OWNER&style=for-the-badge&logo=github&color=22c55e&labelColor=0d1117" />
   </a>
 </div>
 
 <br/>
 
-<!-- GitHub Activity Graph (WORKING SERVICE) -->
+<!-- Profile Summary (REPLACES ACTIVITY GRAPH) -->
 <div align="center">
-  <img
-    width="85%"
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishnavamsi0018&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffb300&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnavamsi0018&theme=github_dark" />
 </div>
 
 <br/>
 
-<!-- GitHub Stats Cards -->
+<!-- Stats Cards -->
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Krishnavamsi0018&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishnavamsi0018&theme=github_dark" />
   &nbsp;
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnavamsi0018&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  
+</div>
+
+<br/>
+
+<!-- Classic GitHub Stats -->
+<div align="center">
+  
 </div>
 
 ## 🗺️ Roadmap
