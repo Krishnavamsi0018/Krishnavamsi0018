@@ -120,22 +120,62 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Krishnavamsi0018">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnavamsi0018&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=ffb300&v=1" alt="GitHub Stats" />
+  <!-- Followers -->
+  <a href="https://github.com/Krishnavamsi0018?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/Krishnavamsi0018?style=for-the-badge&logo=github&color=00e5ff&labelColor=0d1117"
+      alt="GitHub Followers"
+    />
   </a>
+
+  &nbsp;
+
+  <!-- Repositories (STATIC – NO 404 EVER) -->
+  <a href="https://github.com/Krishnavamsi0018?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge&logo=github&labelColor=0d1117"
+      alt="Public Repositories"
+    />
+  </a>
+
+  &nbsp;
+
+  <!-- Stars -->
   <a href="https://github.com/Krishnavamsi0018">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnavamsi0018&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&v=1" alt="Top Languages" />
+    <img
+      src="https://img.shields.io/github/stars/Krishnavamsi0018?affiliations=OWNER&style=for-the-badge&logo=github&color=22c55e&labelColor=0d1117"
+      alt="GitHub Stars"
+    />
   </a>
 </div>
 
 <br/>
 
+<!-- GitHub Activity Graph (WORKING SERVICE) -->
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnavamsi0018&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffb300&area=true&hide_border=true&v=1" alt="Activity Graph" />
+  <img
+    width="85%"
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishnavamsi0018&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffb300&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
+<br/>
 
----
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Krishnavamsi0018&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnavamsi0018&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
 
 ## 🗺️ Roadmap
 
