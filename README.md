@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=120&section=header&text=Krishna%20Vamsi%20Merikapudi&fontSize=36&fontColor=080a0f&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20CSE%20Student%20%C2%B7%20Builder&descAlignY=58&descColor=080a0f" alt="Header Banner" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=200&section=header&text=Krishna%20Vamsi%20Merikapudi&fontSize=36&fontColor=080a0f&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%C2%B7%20CSE%20Student%20%C2%B7%20Builder&descAlignY=50&descColor=080a0f" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -25,13 +24,11 @@
 
 ## 👋 About Me
 
-> 👨‍💻 **Role:** Full Stack Developer (Frontend → Full Stack)
-> 🎓 **Education:** 4th Semester · B.Tech CSE @ VTU
-> 📍 **Location:** India 🇮🇳
-> 🚀 **Currently Building:** [Code-Beta](#-featured-projects) — Gamified Coding Learning Platform
-> 🧠 **Currently Learning:** React, Node.js, MongoDB, REST APIs
-> 🤝 **Looking For:** Internships · Collabs · Freelance Projects
-
+* 👨‍💻 **Role:** Full Stack Developer (Frontend → Full Stack)
+* 🎓 **Education:** 4th Semester · B.Tech CSE @ Brindavan College Of Engineering
+* 📍 **Location:** India 🇮🇳
+* 🧠 **Currently Learning:** React, Node.js, MongoDB, REST APIs
+* 🤝 **Looking For:** Internships · Collabs · Freelance Projects
 <details>
 <summary><b>✨ Fun Facts (Click to expand)</b></summary>
 <br/>
@@ -124,10 +121,10 @@
 
 <div align="center">
   <a href="https://github.com/Krishnavamsi0018">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Krishnavamsi0018&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=ffb300" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnavamsi0018&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=ffb300" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Krishnavamsi0018">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnavamsi0018&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnavamsi0018&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" alt="Top Languages" />
   </a>
 </div>
 
@@ -136,6 +133,9 @@
 <div align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnavamsi0018&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffb300&area=true&hide_border=true" alt="Activity Graph" />
 </div>
+
+<br/>
+
 
 ---
 
