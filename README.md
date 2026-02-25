@@ -133,7 +133,7 @@ Hand-crafted HTML/CSS/JS with custom cursor, scroll animations, and dark editori
 [![GitHub](https://img.shields.io/badge/GitHub-Krishnavamsi0018-00e5ff?style=for-the-badge&logo=github)](https://github.com/Krishnavamsi0018)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00e5ff?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/krishna-vamsi-merikapudi-a00037375)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-ffb300?style=for-the-badge&logo=gmail)](mailto:mvamsimerikapudi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ffb300?style=for-the-badge&logo=vercel)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ffb300?style=for-the-badge&logo=vercel)](https://krishnavamsi0018.github.io/PortfolioMKV/)
 
 > *“Shipping real things, not just watching tutorials forever.”*
 
