@@ -142,12 +142,7 @@
 
 <br/>
 
-<!-- Stats Cards -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krishnavamsi0018&theme=github_dark" />
-  &nbsp;
-  
-</div>
+
 
 <br/>
 
