@@ -121,20 +121,18 @@
 
 <div align="center">
   <a href="https://github.com/Krishnavamsi0018">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnavamsi0018&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=ffb300" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnavamsi0018&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=ffb300&v=1" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Krishnavamsi0018">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnavamsi0018&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnavamsi0018&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&v=1" alt="Top Languages" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnavamsi0018&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffb300&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnavamsi0018&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffb300&area=true&hide_border=true&v=1" alt="Activity Graph" />
 </div>
-
-<br/>
 
 
 ---
