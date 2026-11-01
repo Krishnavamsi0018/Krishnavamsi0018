@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="654" viewBox="0 0 1200 654" role="img" aria-label="Capability matrix: backend and databases, frontend, tooling and delivery all at working level; security practice practicing; cloud and networking learning; infrastructure as code queued.">
+<rect width="1200" height="654" rx="14" fill="#12100A"/>
+<rect x="0.5" y="0.5" width="1199" height="653" rx="14" fill="none" stroke="#3A3222"/>
+<text x="46" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3.4" fill="#FFBE0B">02 / CAPABILITY</text>
+<text x="1154" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" letter-spacing="1.6" fill="#5C553F" text-anchor="end">rated by what I have built with, not watched</text>
+<line x1="46" y1="82" x2="1154" y2="82" stroke="#3A3222"/>
+<text x="46" y="126" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#F7F3E6">Backend &amp; databases</text>
+<text x="46" y="151" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#9A9179">MySQL · schema design · stored procedures · triggers · Node.js · Express</text>
+<circle cx="858" cy="120" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="877" cy="120" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="896" cy="120" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="915" cy="120" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<text x="946" y="125" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2.4" fill="#F7F3E6">WORKING</text>
+<line x1="46" y1="172" x2="1154" y2="172" stroke="#3A3222" stroke-opacity="0.65"/>
+<text x="46" y="200" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#F7F3E6">Frontend</text>
+<text x="46" y="225" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#9A9179">React · JavaScript · HTML · CSS · Tailwind · Recharts</text>
+<circle cx="858" cy="194" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="877" cy="194" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="896" cy="194" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="915" cy="194" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<text x="946" y="199" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2.4" fill="#F7F3E6">WORKING</text>
+<line x1="46" y1="246" x2="1154" y2="246" stroke="#3A3222" stroke-opacity="0.65"/>
+<text x="46" y="274" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#F7F3E6">Tooling &amp; delivery</text>
+<text x="46" y="299" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#9A9179">Git · GitHub · Vercel · Postman · Linux CLI · Figma</text>
+<circle cx="858" cy="268" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="877" cy="268" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="896" cy="268" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="915" cy="268" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<text x="946" y="273" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2.4" fill="#F7F3E6">WORKING</text>
+<line x1="46" y1="320" x2="1154" y2="320" stroke="#3A3222" stroke-opacity="0.65"/>
+<text x="46" y="348" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#F7F3E6">Security practice</text>
+<text x="46" y="373" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#9A9179">threat landscape · breach intelligence · k-anonymity · audit logging</text>
+<circle cx="858" cy="342" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="877" cy="342" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="896" cy="342" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<circle cx="915" cy="342" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<text x="946" y="347" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2.4" fill="#FFBE0B">PRACTICING</text>
+<line x1="46" y1="394" x2="1154" y2="394" stroke="#3A3222" stroke-opacity="0.65"/>
+<text x="46" y="422" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#F7F3E6">Cloud &amp; networking</text>
+<text x="46" y="447" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#9A9179">AWS core · IAM · S3 · EC2 · TCP/IP · DNS · VPC design</text>
+<circle cx="858" cy="416" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="877" cy="416" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="896" cy="416" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<circle cx="915" cy="416" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<text x="946" y="421" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2.4" fill="#FFBE0B">LEARNING</text>
+<line x1="46" y1="468" x2="1154" y2="468" stroke="#3A3222" stroke-opacity="0.65"/>
+<text x="46" y="496" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#F7F3E6">Infrastructure as code</text>
+<text x="46" y="521" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#9A9179">Docker · Terraform · CI/CD pipelines · policy-as-code</text>
+<circle cx="858" cy="490" r="5.4" fill="#FFBE0B" stroke="none" stroke-width="1.4"/>
+<circle cx="877" cy="490" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<circle cx="896" cy="490" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<circle cx="915" cy="490" r="5.4" fill="none" stroke="#5C553F" stroke-width="1.4"/>
+<text x="946" y="495" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2.4" fill="#5C553F">QUEUED</text>
+<line x1="46" y1="546" x2="1154" y2="546" stroke="#3A3222"/>
+<text x="46" y="574" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#5C553F">Queued &#183; Learning &#183; Practicing &#183; Working &#183; <tspan fill="#9A9179">Fluent</tspan></text>
+<text x="46" y="598" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12.5" fill="#5C553F">Fluent is reserved for what I have shipped <tspan fill="#FFF44F">and</tspan> maintained after it broke. Nothing has earned it yet.</text>
+</svg>
